@@ -541,3 +541,21 @@ java.lang.IllegalStateException: Conflicting handlers: {[org.springframework.ide
 	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:653)
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:590)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1461)
+
+!ENTRY mergedoc.encoding 2 0 2021-01-04 23:29:37.044
+!MESSAGE リソース '/myproj_super_intro/src/jp/co/fl/superintro/ch05/ArithmeticOperator.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2021-01-04 23:29:37.045
+!MESSAGE リソース '/myproj_super_intro/src/jp/co/fl/superintro/ch05/ArithmeticOperator.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2021-01-04 23:29:37.048
+!MESSAGE リソース '/myproj_super_intro/src/jp/co/fl/superintro/ch05/ArithmeticOperator.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2021-01-04 23:29:37.048
+!MESSAGE リソース '/myproj_super_intro/src/jp/co/fl/superintro/ch05/ArithmeticOperator.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2021-01-04 23:29:37.091
+!MESSAGE リソース '/myproj_super_intro/src/jp/co/fl/superintro/ch05/ArithmeticOperator.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2021-01-04 23:29:37.091
+!MESSAGE リソース '/myproj_super_intro/src/jp/co/fl/superintro/ch05/ArithmeticOperator.java' が存在しません。

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<runner version="1.0.0">
+    <category expanded="true" name="カテゴリーなし">
+        <launchConfiguration bookmark="false" defaultLaunchMode="run" name="ArithmeticOperator"/>
+        <launchConfiguration bookmark="false" defaultLaunchMode="run" name="ChangeValue1"/>
+        <launchConfiguration bookmark="false" defaultLaunchMode="run" name="ChangeValue2"/>
+        <launchConfiguration bookmark="false" defaultLaunchMode="run" name="DecrementOperator"/>
+        <launchConfiguration bookmark="false" defaultLaunchMode="run" name="HelloWorld"/>
+        <launchConfiguration bookmark="false" defaultLaunchMode="run" name="IncrementOperator"/>
+        <launchConfiguration bookmark="false" defaultLaunchMode="run" name="InputInValue"/>
+        <launchConfiguration bookmark="false" defaultLaunchMode="run" name="KeyBordInputIntValue"/>
+        <launchConfiguration bookmark="false" defaultLaunchMode="run" name="KeyBordInputStringValue"/>
+        <launchConfiguration bookmark="false" defaultLaunchMode="run" name="PlusOperator"/>
+        <launchConfiguration bookmark="false" defaultLaunchMode="run" name="Practice0301"/>
+        <launchConfiguration bookmark="false" defaultLaunchMode="run" name="Practice0401"/>
+        <launchConfiguration bookmark="false" defaultLaunchMode="run" name="Practice0501"/>
+        <launchConfiguration bookmark="false" defaultLaunchMode="run" name="PriorityCheck"/>
+        <launchConfiguration bookmark="false" defaultLaunchMode="run" name="Variable"/>
+    </category>
+</runner>

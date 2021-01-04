@@ -1,0 +1,10 @@
+package jp.co.fl.superintro.eh05;
+
+public class PriorityCheck {
+
+	public static void main(String[] args) {
+		// TODO 自動生成されたメソッド・スタブ
+
+	}
+
+}

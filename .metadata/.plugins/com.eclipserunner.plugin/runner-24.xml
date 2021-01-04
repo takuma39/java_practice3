@@ -6,6 +6,7 @@
         <launchConfiguration bookmark="false" defaultLaunchMode="run" name="ChangeValue2"/>
         <launchConfiguration bookmark="false" defaultLaunchMode="run" name="DecrementOperator"/>
         <launchConfiguration bookmark="false" defaultLaunchMode="run" name="HelloWorld"/>
+        <launchConfiguration bookmark="false" defaultLaunchMode="run" name="IfStatement"/>
         <launchConfiguration bookmark="false" defaultLaunchMode="run" name="IncrementOperator"/>
         <launchConfiguration bookmark="false" defaultLaunchMode="run" name="InputInValue"/>
         <launchConfiguration bookmark="false" defaultLaunchMode="run" name="KeyBordInputIntValue"/>
@@ -16,5 +17,6 @@
         <launchConfiguration bookmark="false" defaultLaunchMode="run" name="Practice0501"/>
         <launchConfiguration bookmark="false" defaultLaunchMode="run" name="PriorityCheck"/>
         <launchConfiguration bookmark="false" defaultLaunchMode="run" name="Variable"/>
+        <launchConfiguration bookmark="false" defaultLaunchMode="run" name="practice0502"/>
     </category>
 </runner>

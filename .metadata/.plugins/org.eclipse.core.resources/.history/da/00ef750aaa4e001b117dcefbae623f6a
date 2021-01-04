@@ -1,0 +1,39 @@
+package jp.co.fl.superintro.eh06;
+
+public class IfStatement {
+
+	public static void main(String[] args) {
+
+		//test1
+		//比較用の価を管理する変数の制限を初期化
+		int a = 5;
+		int b = 5;
+
+		System.out.println("--if文開始(trueの場合)--");
+
+		if(a == b) {
+			System.out.println("変数aと変数bは等しい");
+		} else {
+			System.out.println("変数aと変数bは等しくない");
+		}
+
+		System.out.println();
+		System.out.println("--------------------------");
+		System.out.println();
+
+		//test2
+		//比較用の価を管理する変数の制限を初期化
+		a = 4;
+		b = 5;
+
+		System.out.println("--if文開始(falseの場合)--");
+
+		if(a == b) {
+			System.out.println("変数aと変数bは等しい");
+		} else {
+			System.out.println("変数aと変数bは等しくない");
+		}
+
+	}
+
+}

@@ -2,9 +2,12 @@
 <runner version="1.0.0">
     <category expanded="true" name="カテゴリーなし">
         <launchConfiguration bookmark="false" defaultLaunchMode="run" name="ArithmeticOperator"/>
+        <launchConfiguration bookmark="false" defaultLaunchMode="run" name="BreakStatement"/>
         <launchConfiguration bookmark="false" defaultLaunchMode="run" name="ChangeValue1"/>
         <launchConfiguration bookmark="false" defaultLaunchMode="run" name="ChangeValue2"/>
+        <launchConfiguration bookmark="false" defaultLaunchMode="run" name="Continuestatement"/>
         <launchConfiguration bookmark="false" defaultLaunchMode="run" name="DecrementOperator"/>
+        <launchConfiguration bookmark="false" defaultLaunchMode="run" name="ForLoop"/>
         <launchConfiguration bookmark="false" defaultLaunchMode="run" name="HelloWorld"/>
         <launchConfiguration bookmark="false" defaultLaunchMode="run" name="IfStatement"/>
         <launchConfiguration bookmark="false" defaultLaunchMode="run" name="IncrementOperator"/>
@@ -15,8 +18,10 @@
         <launchConfiguration bookmark="false" defaultLaunchMode="run" name="Practice0301"/>
         <launchConfiguration bookmark="false" defaultLaunchMode="run" name="Practice0401"/>
         <launchConfiguration bookmark="false" defaultLaunchMode="run" name="Practice0501"/>
+        <launchConfiguration bookmark="false" defaultLaunchMode="run" name="Practice0601"/>
         <launchConfiguration bookmark="false" defaultLaunchMode="run" name="PriorityCheck"/>
         <launchConfiguration bookmark="false" defaultLaunchMode="run" name="Variable"/>
+        <launchConfiguration bookmark="false" defaultLaunchMode="run" name="WhileLoop"/>
         <launchConfiguration bookmark="false" defaultLaunchMode="run" name="practice0502"/>
     </category>
 </runner>

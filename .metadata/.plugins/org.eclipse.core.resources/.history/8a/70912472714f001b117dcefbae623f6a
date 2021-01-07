@@ -1,0 +1,40 @@
+package jp.co.fl.superintro.eh08;
+import java.util.Scanner;
+
+public class HighAndLowS04 {
+
+	public static void main(String[] args) {
+
+		//Scanner準備
+		Scanner sc = new Scanner(System.in);
+
+		//ランダム数値
+		int num1 = (int)(Math.random()*9) +1;
+
+
+		//見出し
+		System.out.println("************");
+		System.out.println("*High & Low*");
+		System.out.println("************");
+		System.out.println();
+
+		//カード表示
+		System.out.println("  【問題表示】");
+		System.out.println("*****   *****");
+		System.out.println("*   *   *   *");
+		System.out.println("* " + num1 + " *  " +  " *   *");
+		System.out.println("*   *   *   *");
+		System.out.println("*****   *****");
+		System.out.println();
+
+		//選択
+		System.out.println("Hight or Low ? (h / l)");
+
+
+		//終了
+		System.out.println();
+		System.out.println("--GAME OVER--");
+
+	}
+
+}
